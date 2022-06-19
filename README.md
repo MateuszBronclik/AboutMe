@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MateuszBronclik
 - 👀 I’m interested in app development
 - 🌱 I’m currently learning c#.Net
-- 💞️ I’m looking to collaborate on projects that will allow me to learn how to code
+- 💞️ I’m looking to collaborate on c# projects
 - 📫 How to reach me - mateuszbronclik@gmail.com
 
 <!---
